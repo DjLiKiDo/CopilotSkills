@@ -1,3 +1,6 @@
+mode: 'edit'
+description: 'Generate foundational documents for a software project, including PRD, MVP definition, and task breakdown with GitHub Copilot prompts.'
+
 Based on the provided document, please:
 
 1. Generate a detailed Product Requirements Document (PRD) that includes:
