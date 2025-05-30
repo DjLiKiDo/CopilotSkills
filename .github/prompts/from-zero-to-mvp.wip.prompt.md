@@ -1,1 +1,0 @@
-Basado en este documento, genera un PRD del proyecto, un mvp para la primera release, y una lista de tareas completa y ordenada para llegar de cero al mvp

@@ -29,7 +29,13 @@ Please provide the source document or context to enable a comprehensive analysis
 Each task should follow this format:
 - Task ID
 - Description 
+- Priority
 - Dependencies
 - Estimated effort
+- Technical constraints
+- Acceptance Criteria
+- Functional Requirements
+- Quality Assurance
 - GitHub Copilot prompt template: 
   "I need to [task objective]. The requirements are [specific details]. Please help me implement this using [technology/framework]."
+  
