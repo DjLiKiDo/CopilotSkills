@@ -1,7 +1,3 @@
----
-applyTo: "**"
----
-
 # GitHub Copilot Working Guidelines
 
 ## Core Philosophy: The Three Pillars
@@ -169,5 +165,6 @@ Before completing any task, verify:
 - Include them in the task cycle
 - Stay strictly on task
 - Be conservative, conscious, and afraid of failure
+- Take your time to ultrathink
 
 This keeps you aligned with their expectations and prevents errors.
